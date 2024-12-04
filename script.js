@@ -1,6 +1,8 @@
 console.log("Hello, World!");
 
-let name = "Alice"; // Variable that can change
-const age = 25;     // Variable that cannot change
-var city = "Paris"; // Older way to declare a variable
-console.log(name, age, city);
+let name = "Miracle"; // Variable that can change
+const age = 29;     // Variable that cannot change
+var city = "uk"; // Older way to declare a variable
+console.log(Mirale, 29, uk);
+
+
