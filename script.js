@@ -6,3 +6,4 @@ var city = "uk"; // Older way to declare a variable
 console.log(Mirale, 29, uk);
 
 
+q

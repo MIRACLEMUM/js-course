@@ -236,10 +236,10 @@ console.log(sum, difference, product, quotient, remainder);
 #### Comparison Operators:
 Used to compare values:
 ```javascript
-console.log(5 === 5); // true (strict equality)
 console.log(5 !== 3); // true (not equal)
 console.log(5 > 3);   // true
-console.log(5 < 3);   // false
+conconsole.log(5 === 5); // true (strict equality)
+sole.log(5 < 3);   // false
 console.log(5 >= 3);  // true
 console.log(5 <= 3);  // false
 ```
